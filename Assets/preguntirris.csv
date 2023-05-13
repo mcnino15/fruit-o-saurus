@@ -1,0 +1,21 @@
+Las listas enlazadas son una estructura de datos que almacena elementos en nodos que estan conectados entre si por punteros;1
+Las listas circulares pueden ser implementadas utilizando listas enlazadas simples o dobles;1
+Las multilistas UNICAMENTE pueden ser implementadas utilizando punteros;0
+Las pilas son una estructura de datos que se puede implementar tanto con arrays como con listas enlazadas;1
+Las listas circulares solo pueden ser implementadas utilizando arrays;0
+Un nodo en programacion es un objeto que contiene un valor y un puntero a otro objeto;1
+Una pila es una estructura de datos que utiliza el principio de primero en entrar, ultimo en salir;0
+Las listas dobles enlazadas solo permiten el acceso a los elementos de la lista en un solo sentido;0
+Las multilistas son una estructura de datos que permite representar relaciones entre multiples conjuntos de elementos;1
+Las listas circulares son una variante de las listas enlazadas donde el ultimo elemento apunta al primer elemento;1
+Las listas circulares son una variante de las listas enlazadas donde el ultimo elemento apunta al elemento anterior;0
+Las pilas y las colas son estructuras de datos lineales, lo que significa que los elementos se organizan en una secuencia lineal;1
+Las listas dobles son una variante de las listas enlazadas donde cada nodo tiene tres punteros, uno al elemento anterior, otro al siguiente y otro al elemento actual;0
+Una cola es una estructura de datos que se utiliza para implementar el algoritmo de busqueda en amplitud (BFS);1
+En una multilista, cada elemento de la lista puede apuntar a mas de una sublista;1
+Las colas son una estructura de datos que sigue el principio LIFO (Last In First Out);0
+Las listas enlazadas son una estructura de datos que permite el acceso aleatorio a sus elementos;0
+Las multilistas son una estructura de datos util para organizar informacion jerarquica;1
+En una lista enlazada, cada nodo apunta al nodo anterior y al nodo siguiente, excepto el primer nodo que solo apunta al siguiente y el ultimo nodo que solo apunta al anterior;0
+Las listas dobles enlazadas permiten recorrer los elementos en orden inverso sin necesidad de recorrer toda la lista;1
+Una multilista es una estructura de datos que se utiliza para almacenar informacion en dos o mas dimensiones, pero solo se puede acceder a la informacion en una dimension a la vez;0
